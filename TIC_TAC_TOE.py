@@ -23,7 +23,7 @@ def reset_board():
     for row in range(3):
         for col in range(3):
             buttons[row][col]["text"] = ""
-            buttons[row][col].config(state="normal")  # Upewnij się, że buttons[row][col] jest zainicjowane
+            buttons[row][col].config(state="normal")
 
 
 def computer_move():
