@@ -16,7 +16,7 @@ Here are some screenshots of the game:
 ![Game Screenshot 1](img/img_1.png)
 ![Game Screenshot 2](img/img_2.png)
 ![Game Screenshot 3](img/img_3.png)
-
+![Game Screenshot 4](img/img_4.png)
 
 ## Getting Started
 
