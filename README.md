@@ -14,9 +14,16 @@ Tic Tac Toe is a classic two-player game, and in this project, I've created a si
 Here are some screenshots of the game:
 
 ![Game Screenshot 1](img/img_1.png)
+____________________________________________________________________________
+
 ![Game Screenshot 2](img/img_2.png)
+____________________________________________________________________________
+
 ![Game Screenshot 3](img/img_3.png)
+____________________________________________________________________________
+
 ![Game Screenshot 4](img/img_4.png)
+____________________________________________________________________________
 
 ## Getting Started
 
